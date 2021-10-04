@@ -1,0 +1,35 @@
+system_MK64F12.o: \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/startup/system_MK64F12.c \
+ C:/ProgramData/Freescale/platform/devices/fsl_device_registers.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12.h \
+ C:/ProgramData/Freescale/platform/CMSIS/Include/core_cm4.h \
+ C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmInstr.h \
+ C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmFunc.h \
+ C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmSimd.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/startup/system_MK64F12.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12_extension.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/include/fsl_bitaccess.h \
+ C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12_features.h
+
+C:/ProgramData/Freescale/platform/devices/fsl_device_registers.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12.h:
+
+C:/ProgramData/Freescale/platform/CMSIS/Include/core_cm4.h:
+
+C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmInstr.h:
+
+C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmFunc.h:
+
+C:/ProgramData/Freescale/platform/CMSIS/Include/core_cmSimd.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/startup/system_MK64F12.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12_extension.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/include/fsl_bitaccess.h:
+
+C:/ProgramData/Freescale/platform/devices/MK64F12/include/MK64F12_features.h:
