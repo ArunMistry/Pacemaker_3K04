@@ -1,2 +1,0 @@
-startup_MK64F12.o: \
- C:/ProgramData/Freescale/platform/devices/MK64F12/startup/gcc/startup_MK64F12.S
